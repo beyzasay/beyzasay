@@ -1,5 +1,6 @@
 ### 
-Hi ! I am a newly graduated computer engineer. I love discovering new things.
+Hi ! I am a newly graduated computer engineer. 
+I love discovering new things.
 I am currently learning and working on React Native and continuing to develop myself with new projects.
 
 <!--
