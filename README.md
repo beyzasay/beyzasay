@@ -1,4 +1,6 @@
 ### 
+Hi ! I am a newly graduated computer engineer. I love discovering new things.
+I am currently learning and working on React Native and continuing to develop myself with new projects.
 
 <!--
 **beyzasay/beyzasay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
